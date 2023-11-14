@@ -19,7 +19,7 @@ def clear():
 	clr('clear')
 	print(logo)
 	print(45*'-')
-	print('SL Power Gang']
+	print('SL Power Gang')
 	print('Facebook :www.facebook.com\Chanuka.Ravindu.12')
 	print('whatsapp number : +94740074336')
 	print('GitHub : SL Power Gang')
